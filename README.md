@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Rudresh Sharma 👋
 
-<!--
-**rudresh-sharma/rudresh-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer in Progress 🚀
 
-Here are some ideas to get you started:
+I’m currently focused on becoming a **strong Java Full Stack Developer**, with deep learning in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ **Java**
+- 🌱 **Spring Framework**
+- 🚀 **Spring Boot**
+- 🗄️ **Backend fundamentals, APIs, and clean architecture**
+
+I also have hands-on knowledge of:
+
+- 🐍 **Python**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+
+---
+
+## 💡 About Me
+
+I enjoy building practical projects and learning by doing.  
+My current goal is to master backend development with Java and Spring ecosystem, while strengthening frontend and problem-solving skills to become a complete full stack engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring
+- Spring Boot
+- REST APIs
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Other
+- Python
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Spring Core concepts (IoC, Dependency Injection)
+- Spring Boot project structure and best practices
+- Building secure and scalable REST APIs
+- Java OOP, Collections, and Exception Handling
+- Database integration with Java applications
+
+---
+
+## 🎯 2026 Goals
+
+- Build and publish multiple **Java + Spring Boot** projects
+- Create full stack applications with strong backend architecture
+- Improve DSA/problem-solving consistency
+- Contribute to open source and collaborate with developers
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to learning, collaborating, and discussing development ideas.
+
+- 📫 Feel free to connect with me on GitHub through issues, discussions, or project collaborations.
+
+---
+
+> “Consistency + Projects + Curiosity = Growth.”
