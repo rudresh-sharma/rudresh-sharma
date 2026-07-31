@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Rudresh%20Sharma%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20Progress%20🚀&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Rudresh%20Sharma%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20%2F%20Microservices%20Developer%20🚀&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+with+Java+%2B+Spring+Boot+%E2%98%95;Learning+Backend+Architecture+%F0%9F%97%84%EF%B8%8F;Full+Stack+Engineer+in+the+Making+%F0%9F%9A%80;Consistency+%2B+Projects+%2B+Curiosity+%3D+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+%2B+Microservices+%E2%98%95;Cloud-Native+Dev+on+AWS+%E2%98%81%EF%B8%8F;Docker+%2B+Kubernetes+%2B+CI%2FCD+%F0%9F%90%B3;Building+ConnectSphere+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,12 +18,12 @@
 
 ## 💡 About Me
 
-I enjoy building practical projects and learning by doing. My current goal is to master backend development with the **Java + Spring ecosystem**, while strengthening frontend and problem-solving skills to become a complete full stack engineer.
+Aspiring **Java Developer** with a strong foundation in **Spring Boot, Microservices, and cloud-native development on AWS**. Experienced in building containerized REST APIs with **Docker, RabbitMQ, Redis**, and **CI/CD pipelines**. B.Tech in Computer Science (AI & ML) @ Technocrats Institute of Technology Excellence, Bhopal — CGPA 7.73/10.
 
 <div align="center">
 
-🔭 Currently focused on **Java, Spring, Spring Boot**&nbsp; | &nbsp;🌱 Deepening **backend fundamentals, APIs, clean architecture**
-🧰 Also comfortable with **Python, HTML, CSS, JavaScript**&nbsp; | &nbsp;⚡ *"Consistency + Projects + Curiosity = Growth"*
+🔭 Building **ConnectSphere** — an 11+ microservice social platform on AWS&nbsp; | &nbsp;🌱 Deepening **Kubernetes & event-driven architecture**
+🧩 Solved **400+ coding problems**&nbsp; | &nbsp;🔥 LeetCode **50-Day Daily Challenge** badge&nbsp; | &nbsp;⚡ *"Consistency + Projects + Curiosity = Growth"*
 
 </div>
 
@@ -33,28 +33,88 @@ I enjoy building practical projects and learning by doing. My current goal is to
 
 <div align="center">
 
-**Backend**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3423A6?style=for-the-badge&logo=auth0&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=buildkite&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+**Messaging, Caching & Search**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Other Tools**
+**Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Featured Projects
+
+### 🌐 ConnectSphere — Cloud-Native Social Media Microservices Platform
+`Java` `Spring Boot` `Microservices` `AWS` `Docker` `RabbitMQ` `Redis` `SonarQube` `Elasticsearch` `Angular` `MySQL`
+
+- Architected and deployed **11+ Spring Boot microservices** (Auth, Post, Follow, Comment, Notification, Media, Search, Payment) on AWS, with **Eureka Server** for service discovery and an **API Gateway** for centralized routing
+- Containerized every microservice with **Docker**, orchestrated via **Docker Compose**, with **Kubernetes** manifests for scalable rollout
+- Implemented **event-driven communication with RabbitMQ** for real-time notifications and WebSocket push updates; used **Redis** for caching; integrated **SonarQube + GitHub Actions CI/CD**
+- Secured REST APIs with **JWT + Google OAuth2** (Swagger/OpenAPI docs); built the **Angular + TypeScript** frontend, containerized with Docker/Nginx
+
+### 📐 Quantity Measurement App — Full Stack Microservices Platform
+`Java` `Spring Boot` `Microservices` `REST APIs` `Angular` `OAuth2` `Eureka Server` `API Gateway`
+
+- Built a microservices platform integrating **User, Authentication, and Quantity services** with Eureka Server and API Gateway
+- Developed **10+ RESTful APIs** secured with Spring Security and Google OAuth2
+
+### 🏦 Bank Management System — Console Application
+`Java` `MySQL` `JDBC` `SQL Transactions`
+
+- Console banking app (deposits, withdrawals, transfers, balance inquiry) with **JDBC transaction management (COMMIT/ROLLBACK)** for ACID-compliant data consistency
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💼 Experience
+
+**AI & Data Analytics Virtual Intern** — Edunet Foundation & Shell India Markets Pvt. Ltd. *(Remote, Feb–Mar 2025)*
+- Completed a 4-week AICTE Skill4Future internship in AI & Data Analytics
+- Built an offline **NLP chatbot** using Python, NLTK & Streamlit with text preprocessing and intent matching
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -73,8 +133,6 @@ I enjoy building practical projects and learning by doing. My current goal is to
 
 </div>
 
-> ⚠️ All widgets above already use **`rudresh-sharma`** — double check that matches your GitHub username exactly (case doesn't matter, but spelling/hyphens do).
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🐍 Contribution Snake Game
@@ -89,41 +147,22 @@ Watch a snake eat its way through my contribution graph — auto-updates daily v
   </picture>
 </div>
 
-<details>
-<summary>🩹 Snake not showing today's contributions? Click for fixes</summary>
-
-<br>
-
-1. **Force a fresh run** — go to **Actions → generate snake → Run workflow**. The scheduled cron only fires once a day, so same-day commits won't appear until it reruns.
-2. **Enable private contributions** — Profile → Settings → "Include private contributions on my profile," otherwise private-repo commits never reach the graph the snake reads from.
-3. **Check your commit email** — it must match a verified email on your GitHub account, or those commits won't count toward the graph at all.
-4. **Cache** — `raw.githubusercontent.com` can serve a stale copy briefly after a run; hard-refresh (Ctrl/Cmd+Shift+R) or wait a few minutes.
-5. Confirm the workflow actually **pushed to the `output` branch** — check your repo's branch list; if it's missing, the Action likely failed (check the Actions log for errors, most commonly missing write permissions).
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📚 Currently Learning
+## 🎓 Education
 
-```java
-class RudreshSharma {
-    String[] currentFocus = {
-        "Spring Core (IoC, Dependency Injection)",
-        "Spring Boot project structure & best practices",
-        "Building secure and scalable REST APIs",
-        "Java OOP, Collections, and Exception Handling",
-        "Database integration with Java applications"
-    };
-}
-```
+**B.Tech, Computer Science (Artificial Intelligence & Machine Learning)** — 2022 – 2026
+Technocrats Institute of Technology Excellence, Bhopal · CGPA: 7.73/10
+Class XII (M.P. Board): 93.4% &nbsp;|&nbsp; Class X (M.P. Board): 97.6%
 
-## 🎯 2026 Goals
+## 🏆 Certifications & Achievements
 
-- [ ] Build and publish multiple **Java + Spring Boot** projects
-- [ ] Create full stack applications with strong backend architecture
-- [ ] Improve DSA / problem-solving consistency
-- [ ] Contribute to open source and collaborate with developers
+- 🎖️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 📘 **AI for Everyone** — Andrew Ng (Coursera)
+- 💻 **Cisco JavaScript Essentials**
+- 🧩 Solved **400+ coding problems** across competitive programming platforms
+- 🔥 **LeetCode 50-Day Daily Challenge** badge
+- 🏅 Participated in **Smart India Hackathon** (College Level)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -131,11 +170,11 @@ class RudreshSharma {
 
 <div align="center">
 
-I'm always open to learning, collaborating, and discussing development ideas. Feel free to connect through GitHub issues, discussions, or project collaborations.
+I'm always open to learning, collaborating, and discussing development ideas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudresh-sharma)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rd-sharma7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudreshsharma533@gmail.com)
 
 </div>
 
